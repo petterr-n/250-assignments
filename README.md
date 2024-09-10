@@ -3,7 +3,7 @@ All DAT250 assignments links, linking to their respective report md file.
 
 Assignment 2: https://github.com/petterr-n/dat250-assignment/blob/main/report/dat250-expass2.md
 
-Assignment 3: To be updated...
+Assignment 3: https://github.com/petterr-n/dat250-assignment/blob/A3/report/dat250-expass3.md
 
 Assignment 4: To be updated...
 
