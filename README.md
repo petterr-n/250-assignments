@@ -7,7 +7,7 @@ All DAT250 assignments links, linking to their respective report md file.
 
 [Assignment 4](https://github.com/petterr-n/dat250-jpa-tutorial/blob/master/report/dat250-expass4.md)
 
-Assignment 5: To be updated...
+[Assignment 5](https://github.com/petterr-n/250-assignments/blob/main/dat250-expass5.md)
 
 Assignment 6: To be updated...
 
