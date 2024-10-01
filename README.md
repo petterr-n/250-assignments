@@ -9,6 +9,6 @@ All DAT250 assignments links, linking to their respective report md file.
 
 [Assignment 5](https://github.com/petterr-n/250-assignments/blob/main/dat250-expass5.md)
 
-Assignment 6: To be updated...
+[Assignment 6](https://github.com/petterr-n/expass6/blob/main/untitled/report/dat250-expass6.md)
 
 Assignment 7: To be updated...
